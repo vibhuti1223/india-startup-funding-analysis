@@ -1,4 +1,4 @@
-# india-startup-funding-analysis
+
 # Startup Funding Analysis — A Product Case Study
 
 > Where is Indian startup money actually going — and what should investors do about it?
